@@ -50,7 +50,7 @@ if (count($_POST) > 0) {
  <body>
  	<div align="center">
  	<ul>
- 			 			<h3><a href="test.php?nameTest=test-1.json">test-1.json</a></h3>
+ 			 			<h3><a href="test-1.json">test-1.json</a></h3>
  	 			
   	</ul>
  	</div>
