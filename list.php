@@ -2,6 +2,10 @@
     error_reporting(E_ALL);
     $allFiles = scandir(__DIR__ . '/json');
 ?>
+
+<a href='admin.php'>Загрузить тест.</a><br>
+	<a href=list.php>Список загруженных тестов.</a>
+
 <!doctype html>
 <html lang="en">
 <head>
